@@ -1,0 +1,11 @@
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\bin\Release\net6.0\IMS.Portal.Business.deps.json
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\bin\Release\net6.0\IMS.Portal.Business.dll
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\bin\Release\net6.0\IMS.Portal.Business.pdb
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.AssemblyInfoInputs.cache
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.AssemblyInfo.cs
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.csproj.CoreCompileInputs.cache
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.dll
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\refint\IMS.Portal.Business.dll
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\IMS.Portal.Business.pdb
+D:\Project\Asim Bhai\WEB-POS\IMS.Portal.Business\obj\Release\net6.0\ref\IMS.Portal.Business.dll
